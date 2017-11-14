@@ -1,4 +1,5 @@
 * TODOs
-- Describe a room, ask a question
+- [X] Describe a room, ask a question
+- [ ] Some room logic
 
 * Ideas
