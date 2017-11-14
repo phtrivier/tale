@@ -1,0 +1,2 @@
+#!/bin/sh
+nimble c -r src/tale.nim
